@@ -9,22 +9,12 @@ Messages:
    - If the message has a question mark ? at the end, the coach will answer Silly question, get dressed and go to work!.
    - Otherwise the coach will answer I don't care, get dressed and go to work!
 
-Things you may want to cover:
+Spec
+- ruby '3.0.3'
+- bundler:2.3.11
+- SQLITE
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Setup
+- clone
+- bundle install
+- rails s
